@@ -28,6 +28,10 @@ The final output is an interactive dashboard built using R Shiny.
 - US Bureau of Transportation Statistics
 - US Weather Events Dataset (Kaggle)
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Author
 
 Lutfi Muzzaki Khairullah
