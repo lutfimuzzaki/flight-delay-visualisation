@@ -42,7 +42,7 @@ Click an airport on the map and every other chart updates for that airport.
 
 ## Data wrangling (Python)
 
-Steps are in `Khairullah_33587698_Wrangling.ipynb`:
+Steps are in `wrangling.ipynb`:
 
 - Filtered the flight data to airports covered by the weather dataset, and the weather data to 2022 and to airports present in the flight data
 - Matched airport codes across sources (IATA in the flight data, ICAO in the weather data) using an airports reference table, and replaced airline codes with airline names
