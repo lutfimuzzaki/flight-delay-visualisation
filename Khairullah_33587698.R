@@ -14,7 +14,7 @@ library(RColorBrewer)
 
 # Set working directory and load data
 # Please set the working directory accordingly
-setwd('/Users/lutfimuzzakikhairullah/Documents/Monash/C6004/Semester03/FIT5147/Assignments/DVP')
+# setwd('/Users/lutfimuzzakikhairullah/Documents/Monash/C6004/Semester03/FIT5147/Assignments/DVP')
 
 # The used data below are final data that have previously wrangled with Python
 flights <- read.csv('flights.csv') # wrangled flight data of on-time performance data
